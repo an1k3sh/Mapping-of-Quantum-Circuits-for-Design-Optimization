@@ -1,0 +1,4426 @@
+ 	 	47	1	7	13	19	25	31	37	43	38	27	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	36	X	X	
+5	2	0	45	3	6	9	12	15	18	30	39	42	33	24	
+X	X	23	X	X	X	17	X	X	X	11	X	X	X	8	
+ 	46	48	4	10	16	22	28	34	40	44	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	47	1	7	13	19	25	31	37	43	38	27	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	36	X	X	
+5	2	0	45	3	6	9	12	15	18	30	39	42	33	24	
+X	X	48	X	X	X	17	X	X	X	11	X	X	X	8	
+ 	46	23	4	10	16	22	28	34	40	44	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	47	1	7	13	19	25	31	37	43	38	27	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	36	X	X	
+5	2	48	45	3	6	9	12	15	18	30	39	42	33	24	
+X	X	0	X	X	X	17	X	X	X	11	X	X	X	8	
+ 	46	23	4	10	16	22	28	34	40	44	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	47	7	13	19	25	31	37	43	38	27	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	36	X	X	
+5	2	48	45	3	6	9	12	15	18	30	39	42	33	24	
+X	X	0	X	X	X	17	X	X	X	11	X	X	X	8	
+ 	46	23	4	10	16	22	28	34	40	44	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	47	13	19	25	31	37	43	38	27	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	36	X	X	
+5	2	48	45	3	6	9	12	15	18	30	39	42	33	24	
+X	X	0	X	X	X	17	X	X	X	11	X	X	X	8	
+ 	46	23	4	10	16	22	28	34	40	44	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	47	13	19	25	31	37	43	38	27	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	36	X	X	
+5	2	48	3	45	6	9	12	15	18	30	39	42	33	24	
+X	X	0	X	X	X	17	X	X	X	11	X	X	X	8	
+ 	46	23	4	10	16	22	28	34	40	44	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	20	13	19	25	31	37	43	38	27	35	X	
+26	X	X	X	47	X	X	X	14	X	X	X	36	X	X	
+5	2	48	3	45	6	9	12	15	18	30	39	42	33	24	
+X	X	0	X	X	X	17	X	X	X	11	X	X	X	8	
+ 	46	23	4	10	16	22	28	34	40	44	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	20	13	19	25	31	37	43	38	27	35	X	
+26	X	X	X	47	X	X	X	14	X	X	X	36	X	X	
+5	2	48	3	45	6	9	12	15	18	30	39	42	33	24	
+X	X	0	X	X	X	17	X	X	X	11	X	X	X	8	
+ 	23	46	4	10	16	22	28	34	40	44	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	20	13	19	25	31	37	43	38	27	35	X	
+26	X	X	X	47	X	X	X	14	X	X	X	36	X	X	
+5	2	48	3	45	6	9	12	15	18	30	39	42	33	24	
+X	X	46	X	X	X	17	X	X	X	11	X	X	X	8	
+ 	23	0	4	10	16	22	28	34	40	44	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	20	13	19	25	31	37	43	38	27	35	X	
+26	X	X	X	47	X	X	X	14	X	X	X	36	X	X	
+5	2	46	3	45	6	9	12	15	18	30	39	42	33	24	
+X	X	48	X	X	X	17	X	X	X	11	X	X	X	8	
+ 	23	0	4	10	16	22	28	34	40	44	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	20	13	19	25	31	37	43	38	27	35	X	
+26	X	X	X	47	X	X	X	14	X	X	X	36	X	X	
+5	2	3	46	45	6	9	12	15	18	30	39	42	33	24	
+X	X	48	X	X	X	17	X	X	X	11	X	X	X	8	
+ 	23	0	4	10	16	22	28	34	40	44	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	20	13	19	25	31	37	43	38	27	35	X	
+26	X	X	X	47	X	X	X	14	X	X	X	36	X	X	
+5	2	48	46	45	6	9	12	15	18	30	39	42	33	24	
+X	X	3	X	X	X	17	X	X	X	11	X	X	X	8	
+ 	23	0	4	10	16	22	28	34	40	44	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	20	13	19	25	31	37	43	38	27	35	X	
+26	X	X	X	45	X	X	X	14	X	X	X	36	X	X	
+5	2	48	46	47	6	9	12	15	18	30	39	42	33	24	
+X	X	3	X	X	X	17	X	X	X	11	X	X	X	8	
+ 	23	0	4	10	16	22	28	34	40	44	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	20	13	19	25	31	37	43	38	27	35	X	
+26	X	X	X	45	X	X	X	14	X	X	X	36	X	X	
+5	2	46	48	47	6	9	12	15	18	30	39	42	33	24	
+X	X	3	X	X	X	17	X	X	X	11	X	X	X	8	
+ 	23	0	4	10	16	22	28	34	40	44	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	20	13	19	25	31	37	43	38	27	35	X	
+26	X	X	X	45	X	X	X	14	X	X	X	36	X	X	
+5	2	46	47	48	6	9	12	15	18	30	39	42	33	24	
+X	X	3	X	X	X	17	X	X	X	11	X	X	X	8	
+ 	23	0	4	10	16	22	28	34	40	44	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	20	13	19	25	31	37	43	38	27	35	X	
+26	X	X	X	48	X	X	X	14	X	X	X	36	X	X	
+5	2	46	47	45	6	9	12	15	18	30	39	42	33	24	
+X	X	3	X	X	X	17	X	X	X	11	X	X	X	8	
+ 	23	0	4	10	16	22	28	34	40	44	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	20	13	19	25	31	37	43	38	27	35	X	
+26	X	X	X	48	X	X	X	14	X	X	X	36	X	X	
+5	2	47	46	45	6	9	12	15	18	30	39	42	33	24	
+X	X	3	X	X	X	17	X	X	X	11	X	X	X	8	
+ 	23	0	4	10	16	22	28	34	40	44	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	20	13	19	25	31	37	43	38	27	35	X	
+26	X	X	X	48	X	X	X	14	X	X	X	36	X	X	
+5	2	47	46	45	6	9	12	15	18	30	39	42	33	24	
+X	X	3	X	X	X	17	X	X	X	44	X	X	X	8	
+ 	23	0	4	10	16	22	28	34	40	11	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	20	13	19	25	31	37	43	38	27	35	X	
+26	X	X	X	48	X	X	X	14	X	X	X	36	X	X	
+5	2	47	46	45	6	9	12	15	18	44	39	42	33	24	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	8	
+ 	23	0	4	10	16	22	28	34	40	11	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	20	13	19	25	31	37	43	38	27	35	X	
+26	X	X	X	48	X	X	X	14	X	X	X	36	X	X	
+5	2	47	46	45	6	9	12	15	18	39	44	42	33	24	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	8	
+ 	23	0	4	10	16	22	28	34	40	11	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	20	13	19	25	31	37	43	38	27	35	X	
+26	X	X	X	48	X	X	X	14	X	X	X	42	X	X	
+5	2	47	46	45	6	9	12	15	18	39	44	36	33	24	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	8	
+ 	23	0	4	10	16	22	28	34	40	11	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	20	13	19	25	31	37	43	38	42	35	X	
+26	X	X	X	48	X	X	X	14	X	X	X	27	X	X	
+5	2	47	46	45	6	9	12	15	18	39	44	36	33	24	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	8	
+ 	23	0	4	10	16	22	28	34	40	11	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	20	13	19	25	31	37	38	43	42	35	X	
+26	X	X	X	48	X	X	X	14	X	X	X	27	X	X	
+5	2	47	46	45	6	9	12	15	18	39	44	36	33	24	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	8	
+ 	23	0	4	10	16	22	28	34	40	11	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	20	13	19	25	31	37	38	43	42	35	X	
+26	X	X	X	45	X	X	X	14	X	X	X	27	X	X	
+5	2	47	46	48	6	9	12	15	18	39	44	36	33	24	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	8	
+ 	23	0	4	10	16	22	28	34	40	11	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	45	13	19	25	31	37	38	43	42	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	27	X	X	
+5	2	47	46	48	6	9	12	15	18	39	44	36	33	24	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	8	
+ 	23	0	4	10	16	22	28	34	40	11	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	45	19	25	31	37	38	43	42	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	27	X	X	
+5	2	47	46	48	6	9	12	15	18	39	44	36	33	24	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	8	
+ 	23	0	4	10	16	22	28	34	40	11	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	45	25	31	37	38	43	42	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	27	X	X	
+5	2	47	46	48	6	9	12	15	18	39	44	36	33	24	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	8	
+ 	23	0	4	10	16	22	28	34	40	11	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	45	31	37	38	43	42	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	27	X	X	
+5	2	47	46	48	6	9	12	15	18	39	44	36	33	24	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	8	
+ 	23	0	4	10	16	22	28	34	40	11	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	45	37	38	43	42	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	27	X	X	
+5	2	47	46	48	6	9	12	15	18	39	44	36	33	24	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	8	
+ 	23	0	4	10	16	22	28	34	40	11	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	37	45	38	43	42	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	27	X	X	
+5	2	47	46	48	6	9	12	15	18	39	44	36	33	24	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	8	
+ 	23	0	4	10	16	22	28	34	40	11	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	37	38	45	43	42	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	27	X	X	
+5	2	47	46	48	6	9	12	15	18	39	44	36	33	24	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	8	
+ 	23	0	4	10	16	22	28	34	40	11	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	37	38	43	45	42	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	27	X	X	
+5	2	47	46	48	6	9	12	15	18	39	44	36	33	24	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	8	
+ 	23	0	4	10	16	22	28	34	40	11	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	37	38	43	45	42	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	27	X	X	
+5	2	47	46	48	6	9	12	15	18	44	39	36	33	24	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	8	
+ 	23	0	4	10	16	22	28	34	40	11	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	37	38	43	45	42	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	27	X	X	
+5	2	47	46	48	6	9	12	15	18	39	44	36	33	24	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	8	
+ 	23	0	4	10	16	22	28	34	40	11	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	37	38	45	43	42	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	27	X	X	
+5	2	47	46	48	6	9	12	15	18	39	44	36	33	24	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	8	
+ 	23	0	4	10	16	22	28	34	40	11	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	37	38	45	43	42	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	27	X	X	
+5	2	47	46	48	6	9	12	15	18	39	36	44	33	24	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	8	
+ 	23	0	4	10	16	22	28	34	40	11	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	37	38	45	42	43	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	27	X	X	
+5	2	47	46	48	6	9	12	15	18	39	36	44	33	24	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	8	
+ 	23	0	4	10	16	22	28	34	40	11	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	37	38	45	42	43	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	44	X	X	
+5	2	47	46	48	6	9	12	15	18	39	36	27	33	24	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	8	
+ 	23	0	4	10	16	22	28	34	40	11	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	37	38	45	43	42	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	44	X	X	
+5	2	47	46	48	6	9	12	15	18	39	36	27	33	24	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	8	
+ 	23	0	4	10	16	22	28	34	40	11	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	37	38	43	45	42	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	44	X	X	
+5	2	47	46	48	6	9	12	15	18	39	36	27	33	24	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	8	
+ 	23	0	4	10	16	22	28	34	40	11	32	21	29	41	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	37	38	43	45	42	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	44	X	X	
+5	2	47	46	48	6	9	12	15	18	39	36	27	33	24	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	41	
+ 	23	0	4	10	16	22	28	34	40	11	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	37	38	43	45	42	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	44	X	X	
+5	2	47	46	48	6	9	12	15	18	39	36	27	33	41	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	24	
+ 	23	0	4	10	16	22	28	34	40	11	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	37	38	43	45	42	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	44	X	X	
+5	2	47	46	48	6	9	12	15	18	39	36	27	41	33	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	24	
+ 	23	0	4	10	16	22	28	34	40	11	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	37	38	43	45	42	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	44	X	X	
+5	2	47	46	48	6	9	12	15	18	39	36	41	27	33	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	24	
+ 	23	0	4	10	16	22	28	34	40	11	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	37	38	43	45	42	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	44	X	X	
+5	2	47	46	48	6	9	12	15	18	39	41	36	27	33	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	24	
+ 	23	0	4	10	16	22	28	34	40	11	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	37	38	43	45	42	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	44	X	X	
+5	2	47	46	48	6	9	12	15	18	30	41	36	27	33	
+X	X	3	X	X	X	17	X	X	X	39	X	X	X	24	
+ 	23	0	4	10	16	22	28	34	40	11	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	37	38	43	45	42	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	44	X	X	
+5	2	47	46	48	6	9	12	15	18	30	41	36	27	33	
+X	X	3	X	X	X	17	X	X	X	11	X	X	X	24	
+ 	23	0	4	10	16	22	28	34	40	39	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	37	38	43	45	44	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	42	X	X	
+5	2	47	46	48	6	9	12	15	18	30	41	36	27	33	
+X	X	3	X	X	X	17	X	X	X	11	X	X	X	24	
+ 	23	0	4	10	16	22	28	34	40	39	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	37	38	43	45	44	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	36	X	X	
+5	2	47	46	48	6	9	12	15	18	30	41	42	27	33	
+X	X	3	X	X	X	17	X	X	X	11	X	X	X	24	
+ 	23	0	4	10	16	22	28	34	40	39	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	37	38	43	45	44	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	36	X	X	
+5	2	47	46	48	6	9	12	15	18	30	41	42	27	33	
+X	X	3	X	X	X	17	X	X	X	39	X	X	X	24	
+ 	23	0	4	10	16	22	28	34	40	11	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	37	38	43	45	44	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	36	X	X	
+5	2	47	46	48	6	9	12	15	18	39	41	42	27	33	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	24	
+ 	23	0	4	10	16	22	28	34	40	11	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	37	38	43	45	44	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	36	X	X	
+5	2	47	46	48	6	9	12	15	18	39	42	41	27	33	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	24	
+ 	23	0	4	10	16	22	28	34	40	11	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	37	38	43	45	44	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	36	X	X	
+5	2	47	46	48	6	9	12	15	18	39	41	42	27	33	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	24	
+ 	23	0	4	10	16	22	28	34	40	11	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	37	38	43	45	44	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	36	X	X	
+5	2	47	46	48	6	9	12	15	18	41	39	42	27	33	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	24	
+ 	23	0	4	10	16	22	28	34	40	11	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	37	38	43	45	44	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	36	X	X	
+5	2	47	46	48	6	9	12	15	18	30	39	42	27	33	
+X	X	3	X	X	X	17	X	X	X	41	X	X	X	24	
+ 	23	0	4	10	16	22	28	34	40	11	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	37	38	43	45	44	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	36	X	X	
+5	2	47	46	48	6	9	12	15	18	30	39	42	27	33	
+X	X	3	X	X	X	17	X	X	X	11	X	X	X	24	
+ 	23	0	4	10	16	22	28	34	40	41	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	37	38	43	45	44	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	36	X	X	
+5	2	47	46	48	6	9	12	15	18	30	39	42	27	33	
+X	X	3	X	X	X	17	X	X	X	11	X	X	X	24	
+ 	23	0	4	10	16	22	28	34	41	40	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	37	38	43	45	44	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	36	X	X	
+5	2	47	46	48	6	9	12	15	18	30	39	42	27	33	
+X	X	3	X	X	X	17	X	X	X	40	X	X	X	24	
+ 	23	0	4	10	16	22	28	34	41	11	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	37	38	43	45	44	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	36	X	X	
+5	2	47	46	48	6	9	12	15	18	40	39	42	27	33	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	24	
+ 	23	0	4	10	16	22	28	34	41	11	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	37	38	43	45	44	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	36	X	X	
+5	2	47	46	48	6	9	12	15	18	39	40	42	27	33	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	24	
+ 	23	0	4	10	16	22	28	34	41	11	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	37	38	43	45	44	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	36	X	X	
+5	2	47	46	48	6	9	12	15	18	39	42	40	27	33	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	24	
+ 	23	0	4	10	16	22	28	34	41	11	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	37	38	43	45	36	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	44	X	X	
+5	2	47	46	48	6	9	12	15	18	39	42	40	27	33	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	24	
+ 	23	0	4	10	16	22	28	34	41	11	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	37	43	38	45	36	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	44	X	X	
+5	2	47	46	48	6	9	12	15	18	39	42	40	27	33	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	24	
+ 	23	0	4	10	16	22	28	34	41	11	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	37	43	45	38	36	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	44	X	X	
+5	2	47	46	48	6	9	12	15	18	39	42	40	27	33	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	24	
+ 	23	0	4	10	16	22	28	34	41	11	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	43	37	45	38	36	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	44	X	X	
+5	2	47	46	48	6	9	12	15	18	39	42	40	27	33	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	24	
+ 	23	0	4	10	16	22	28	34	41	11	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	43	45	37	38	36	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	44	X	X	
+5	2	47	46	48	6	9	12	15	18	39	42	40	27	33	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	24	
+ 	23	0	4	10	16	22	28	34	41	11	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	43	45	38	37	36	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	44	X	X	
+5	2	47	46	48	6	9	12	15	18	39	42	40	27	33	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	24	
+ 	23	0	4	10	16	22	28	34	41	11	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	43	45	38	37	44	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	36	X	X	
+5	2	47	46	48	6	9	12	15	18	39	42	40	27	33	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	24	
+ 	23	0	4	10	16	22	28	34	41	11	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	43	45	38	37	44	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	40	X	X	
+5	2	47	46	48	6	9	12	15	18	39	42	36	27	33	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	24	
+ 	23	0	4	10	16	22	28	34	41	11	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	43	45	38	37	44	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	40	X	X	
+5	2	47	46	48	6	9	12	15	18	42	39	36	27	33	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	24	
+ 	23	0	4	10	16	22	28	34	41	11	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+ 	 	1	7	13	19	25	31	43	45	38	37	44	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	40	X	X	
+5	2	47	46	48	6	9	12	15	18	42	39	36	27	33	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	24	
+ 	23	0	4	10	16	22	28	34	41	11	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	43	45	38	44	37	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	40	X	X	
+5	2	47	46	48	6	9	12	15	18	42	39	36	27	33	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	24	
+ 	23	0	4	10	16	22	28	34	41	11	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	43	45	38	44	37	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	40	X	X	
+5	2	47	46	48	6	9	12	15	18	42	36	39	27	33	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	24	
+ 	23	0	4	10	16	22	28	34	41	11	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	43	45	38	44	40	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	37	X	X	
+5	2	47	46	48	6	9	12	15	18	42	36	39	27	33	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	24	
+ 	23	0	4	10	16	22	28	34	41	11	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+ 	 	1	7	13	19	25	31	43	45	38	44	40	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	37	X	X	
+5	2	47	46	48	6	9	12	15	18	42	36	39	27	33	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	24	
+ 	23	0	4	10	16	22	28	34	41	11	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	43	45	38	44	40	35	X	
+26	X	X	X	20	X	X	X	14	X	X	X	37	X	X	
+5	2	47	46	48	6	9	12	15	18	42	36	39	33	27	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	24	
+ 	23	0	4	10	16	22	28	34	41	11	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	43	45	38	44	35	40	X	
+26	X	X	X	20	X	X	X	14	X	X	X	37	X	X	
+5	2	47	46	48	6	9	12	15	18	42	36	39	33	27	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	24	
+ 	23	0	4	10	16	22	28	34	41	11	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	43	45	38	44	35	40	X	
+26	X	X	X	20	X	X	X	14	X	X	X	37	X	X	
+5	2	47	46	48	6	9	12	15	18	42	36	33	39	27	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	24	
+ 	23	0	4	10	16	22	28	34	41	11	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	43	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	14	X	X	X	35	X	X	
+5	2	47	46	48	6	9	12	15	18	42	36	33	39	27	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	24	
+ 	23	0	4	10	16	22	28	34	41	11	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	43	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	14	X	X	X	35	X	X	
+5	2	47	46	48	6	9	12	15	18	42	36	33	39	27	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	24	
+ 	23	0	4	10	16	22	28	41	34	11	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	43	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	14	X	X	X	35	X	X	
+5	2	47	46	48	6	9	12	15	18	42	36	33	39	27	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	24	
+ 	23	0	4	10	16	22	28	41	11	34	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	43	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	14	X	X	X	35	X	X	
+5	2	47	46	48	6	9	12	15	18	42	36	33	39	27	
+X	X	3	X	X	X	17	X	X	X	34	X	X	X	24	
+ 	23	0	4	10	16	22	28	41	11	30	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	43	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	14	X	X	X	35	X	X	
+5	2	47	46	48	6	9	12	15	18	34	36	33	39	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	24	
+ 	23	0	4	10	16	22	28	41	11	30	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	43	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	14	X	X	X	35	X	X	
+5	2	47	46	48	6	9	12	15	18	36	34	33	39	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	24	
+ 	23	0	4	10	16	22	28	41	11	30	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	43	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	14	X	X	X	35	X	X	
+5	2	47	46	48	6	9	12	15	18	34	36	33	39	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	24	
+ 	23	0	4	10	16	22	28	41	11	30	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	43	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	14	X	X	X	33	X	X	
+5	2	47	46	48	6	9	12	15	18	34	36	35	39	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	24	
+ 	23	0	4	10	16	22	28	41	11	30	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	43	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	14	X	X	X	33	X	X	
+5	2	47	46	48	6	9	12	15	18	34	35	36	39	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	24	
+ 	23	0	4	10	16	22	28	41	11	30	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	43	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	14	X	X	X	33	X	X	
+5	2	47	46	48	6	9	12	15	18	35	34	36	39	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	24	
+ 	23	0	4	10	16	22	28	41	11	30	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+ 	 	1	7	13	19	25	31	43	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	14	X	X	X	33	X	X	
+5	2	47	46	48	6	9	12	15	18	35	34	36	39	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	24	
+ 	23	0	4	10	16	22	28	41	11	30	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+ 	 	1	7	13	19	25	31	43	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	14	X	X	X	33	X	X	
+5	2	47	46	48	6	9	12	15	18	35	34	36	39	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	24	
+ 	23	0	4	10	16	22	28	41	11	30	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	43	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	14	X	X	X	33	X	X	
+5	2	47	46	48	6	9	12	15	18	35	34	36	39	27	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	24	
+ 	23	0	4	10	16	22	28	41	11	42	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	31	43	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	14	X	X	X	33	X	X	
+5	2	47	46	48	6	9	12	15	18	30	34	36	39	27	
+X	X	3	X	X	X	17	X	X	X	35	X	X	X	24	
+ 	23	0	4	10	16	22	28	41	11	42	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	43	31	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	14	X	X	X	33	X	X	
+5	2	47	46	48	6	9	12	15	18	30	34	36	39	27	
+X	X	3	X	X	X	17	X	X	X	35	X	X	X	24	
+ 	23	0	4	10	16	22	28	41	11	42	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	31	X	X	X	33	X	X	
+5	2	47	46	48	6	9	12	15	18	30	34	36	39	27	
+X	X	3	X	X	X	17	X	X	X	35	X	X	X	24	
+ 	23	0	4	10	16	22	28	41	11	42	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	15	X	X	X	33	X	X	
+5	2	47	46	48	6	9	12	31	18	30	34	36	39	27	
+X	X	3	X	X	X	17	X	X	X	35	X	X	X	24	
+ 	23	0	4	10	16	22	28	41	11	42	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	15	X	X	X	33	X	X	
+5	2	47	46	48	6	9	12	18	31	30	34	36	39	27	
+X	X	3	X	X	X	17	X	X	X	35	X	X	X	24	
+ 	23	0	4	10	16	22	28	41	11	42	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+5	2	47	46	48	6	9	12	18	31	30	34	33	39	27	
+X	X	3	X	X	X	17	X	X	X	35	X	X	X	24	
+ 	23	0	4	10	16	22	28	41	11	42	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+5	2	47	46	48	6	9	12	18	31	30	33	34	39	27	
+X	X	3	X	X	X	17	X	X	X	35	X	X	X	24	
+ 	23	0	4	10	16	22	28	41	11	42	32	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+5	2	47	46	48	6	9	12	18	31	30	33	34	39	27	
+X	X	3	X	X	X	17	X	X	X	35	X	X	X	24	
+ 	23	0	4	10	16	22	28	41	11	32	42	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+5	2	47	46	48	6	9	12	18	31	30	33	34	39	27	
+X	X	3	X	X	X	17	X	X	X	32	X	X	X	24	
+ 	23	0	4	10	16	22	28	41	11	35	42	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+5	2	47	46	48	6	9	12	18	31	32	33	34	39	27	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	24	
+ 	23	0	4	10	16	22	28	41	11	35	42	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+5	2	47	46	48	6	9	12	18	32	31	33	34	39	27	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	24	
+ 	23	0	4	10	16	22	28	41	11	35	42	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+5	2	47	46	48	6	9	12	18	32	30	33	34	39	27	
+X	X	3	X	X	X	17	X	X	X	31	X	X	X	24	
+ 	23	0	4	10	16	22	28	41	11	35	42	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+5	2	47	46	48	6	9	12	18	32	30	33	34	39	24	
+X	X	3	X	X	X	17	X	X	X	31	X	X	X	27	
+ 	23	0	4	10	16	22	28	41	11	35	42	21	29	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+5	2	47	46	48	6	9	12	18	32	30	33	34	39	24	
+X	X	3	X	X	X	17	X	X	X	31	X	X	X	8	
+ 	23	0	4	10	16	22	28	41	11	35	42	21	29	27	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+5	2	47	46	48	6	9	12	18	32	30	33	34	39	24	
+X	X	3	X	X	X	17	X	X	X	31	X	X	X	8	
+ 	23	0	4	10	16	22	41	28	11	35	42	21	29	27	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+5	2	47	46	48	6	9	12	18	32	30	33	34	39	24	
+X	X	3	X	X	X	17	X	X	X	31	X	X	X	8	
+ 	23	0	4	10	16	22	41	11	28	35	42	21	29	27	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+5	2	47	46	48	6	9	12	18	32	30	33	34	39	24	
+X	X	3	X	X	X	17	X	X	X	31	X	X	X	8	
+ 	23	0	4	10	16	22	41	11	35	28	42	21	29	27	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+5	2	47	46	48	6	9	12	18	32	30	33	34	39	24	
+X	X	3	X	X	X	17	X	X	X	31	X	X	X	8	
+ 	23	0	4	10	16	22	41	11	35	42	28	21	29	27	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+5	2	47	46	48	6	9	12	18	32	30	33	34	39	24	
+X	X	3	X	X	X	17	X	X	X	31	X	X	X	8	
+ 	23	0	4	10	16	22	41	11	35	42	21	28	29	27	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+5	2	47	46	48	6	9	12	18	32	30	33	34	39	24	
+X	X	3	X	X	X	17	X	X	X	31	X	X	X	8	
+ 	23	0	4	10	16	22	41	11	35	42	21	29	28	27	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+5	2	47	46	48	6	9	12	18	32	31	33	34	39	24	
+X	X	3	X	X	X	17	X	X	X	30	X	X	X	8	
+ 	23	0	4	10	16	22	41	11	35	42	21	29	28	27	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+5	2	47	46	48	6	9	12	18	32	31	33	34	39	24	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	23	0	4	10	16	22	41	11	35	30	21	29	28	27	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+5	2	47	46	48	6	9	12	18	32	31	33	34	39	24	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	23	0	4	10	16	22	41	11	35	21	30	29	28	27	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+5	2	47	46	48	6	9	12	18	32	31	33	34	39	24	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	23	0	4	10	16	22	41	11	35	21	29	30	28	27	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+5	2	47	46	48	6	9	12	18	32	31	33	34	39	24	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	23	0	4	10	16	22	41	11	35	21	29	28	30	27	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+5	2	47	46	48	6	9	12	18	32	31	33	34	39	24	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	23	0	4	10	16	22	41	11	35	21	29	28	30	27	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+5	2	47	46	48	6	9	12	18	32	31	33	34	39	24	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	23	0	4	10	16	22	41	11	35	21	29	28	30	27	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+26	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+5	2	47	46	48	6	9	12	18	32	31	33	34	39	24	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	23	0	4	10	16	22	41	11	35	21	29	28	30	27	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+26	2	47	46	48	6	9	12	18	32	31	33	34	39	24	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	23	0	4	10	16	22	41	11	35	21	29	28	30	27	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+2	26	47	46	48	6	9	12	18	32	31	33	34	39	24	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	23	0	4	10	16	22	41	11	35	21	29	28	30	27	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+2	47	26	46	48	6	9	12	18	32	31	33	34	39	24	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	23	0	4	10	16	22	41	11	35	21	29	28	30	27	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+2	47	46	26	48	6	9	12	18	32	31	33	34	39	24	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	23	0	4	10	16	22	41	11	35	21	29	28	30	27	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	26	6	9	12	18	32	31	33	34	39	24	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	23	0	4	10	16	22	41	11	35	21	29	28	30	27	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	6	26	9	12	18	32	31	33	34	39	24	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	23	0	4	10	16	22	41	11	35	21	29	28	30	27	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	6	9	26	12	18	32	31	33	34	39	24	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	23	0	4	10	16	22	41	11	35	21	29	28	30	27	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	6	9	12	26	18	32	31	33	34	39	24	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	23	0	4	10	16	22	41	11	35	21	29	28	30	27	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	6	9	12	18	26	32	31	33	34	39	24	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	23	0	4	10	16	22	41	11	35	21	29	28	30	27	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	6	9	12	18	32	26	31	33	34	39	24	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	23	0	4	10	16	22	41	11	35	21	29	28	30	27	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	6	9	12	18	32	31	26	33	34	39	24	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	23	0	4	10	16	22	41	11	35	21	29	28	30	27	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	6	9	12	18	32	31	33	26	34	39	24	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	23	0	4	10	16	22	41	11	35	21	29	28	30	27	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	6	9	12	18	32	31	33	34	26	39	24	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	23	0	4	10	16	22	41	11	35	21	29	28	30	27	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	25	43	14	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	6	9	12	18	32	31	33	34	39	26	24	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	23	0	4	10	16	22	41	11	35	21	29	28	30	27	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	43	25	14	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	6	9	12	18	32	31	33	34	39	26	24	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	23	0	4	10	16	22	41	11	35	21	29	28	30	27	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	43	14	25	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	6	9	12	18	32	31	33	34	39	26	24	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	23	0	4	10	16	22	41	11	35	21	29	28	30	27	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	43	14	15	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	25	X	X	X	36	X	X	
+2	47	46	48	6	9	12	18	32	31	33	34	39	26	24	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	23	0	4	10	16	22	41	11	35	21	29	28	30	27	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	43	14	15	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	32	X	X	X	36	X	X	
+2	47	46	48	6	9	12	18	25	31	33	34	39	26	24	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	23	0	4	10	16	22	41	11	35	21	29	28	30	27	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	43	14	15	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	32	X	X	X	36	X	X	
+2	47	46	48	6	9	12	18	31	25	33	34	39	26	24	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	23	0	4	10	16	22	41	11	35	21	29	28	30	27	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	43	14	15	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	32	X	X	X	36	X	X	
+2	47	46	48	6	9	12	18	31	33	25	34	39	26	24	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	23	0	4	10	16	22	41	11	35	21	29	28	30	27	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	43	14	15	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	32	X	X	X	36	X	X	
+2	47	46	48	6	9	12	18	31	33	34	25	39	26	24	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	23	0	4	10	16	22	41	11	35	21	29	28	30	27	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	43	14	15	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	32	X	X	X	36	X	X	
+2	47	46	48	6	9	12	18	31	33	34	39	25	26	24	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	23	0	4	10	16	22	41	11	35	21	29	28	30	27	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	43	14	15	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	32	X	X	X	36	X	X	
+2	47	46	48	6	9	12	18	31	33	34	39	26	25	24	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	23	0	4	10	16	22	41	11	35	21	29	28	30	27	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	43	14	15	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	32	X	X	X	36	X	X	
+2	47	46	48	6	9	12	18	31	33	34	39	26	25	24	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	27	
+ 	23	0	4	10	16	22	41	11	35	21	29	28	30	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+ 	 	1	7	13	19	43	14	15	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	32	X	X	X	36	X	X	
+2	47	46	48	6	9	12	18	31	33	34	39	26	25	24	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	27	
+ 	23	0	4	10	16	22	41	11	35	21	29	28	30	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	43	14	15	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	32	X	X	X	36	X	X	
+2	47	46	48	6	9	12	18	31	33	34	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	24	
+ 	23	0	4	10	16	22	41	11	35	21	29	28	30	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+ 	 	1	7	13	19	43	14	15	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	32	X	X	X	36	X	X	
+2	47	46	48	6	9	12	18	31	33	34	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	24	
+ 	23	0	4	10	16	22	41	11	35	21	29	28	30	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	43	14	15	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	32	X	X	X	36	X	X	
+2	47	46	48	6	9	12	18	31	33	34	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	24	
+ 	0	23	4	10	16	22	41	11	35	21	29	28	30	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	43	14	15	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	32	X	X	X	36	X	X	
+2	47	46	48	6	9	12	18	31	33	34	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	24	
+ 	0	4	23	10	16	22	41	11	35	21	29	28	30	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	43	14	15	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	32	X	X	X	36	X	X	
+2	47	46	48	6	9	12	18	31	33	34	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	24	
+ 	0	4	10	23	16	22	41	11	35	21	29	28	30	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	43	14	15	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	32	X	X	X	36	X	X	
+2	47	46	48	6	9	12	18	31	33	34	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	24	
+ 	0	4	10	16	23	22	41	11	35	21	29	28	30	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	43	14	15	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	32	X	X	X	36	X	X	
+2	47	46	48	6	9	12	18	31	33	34	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	24	
+ 	0	4	10	16	22	23	41	11	35	21	29	28	30	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	43	14	15	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	32	X	X	X	36	X	X	
+2	47	46	48	6	9	12	18	31	33	34	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	24	
+ 	0	4	10	16	22	41	23	11	35	21	29	28	30	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	43	14	15	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	32	X	X	X	36	X	X	
+2	47	46	48	6	9	12	18	31	33	34	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	24	
+ 	0	4	10	16	22	41	11	23	35	21	29	28	30	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	43	14	15	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	32	X	X	X	36	X	X	
+2	47	46	48	6	9	12	18	31	33	34	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	24	
+ 	0	4	10	16	22	41	11	35	23	21	29	28	30	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	43	14	15	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	32	X	X	X	36	X	X	
+2	47	46	48	6	9	12	18	31	33	34	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	24	
+ 	0	4	10	16	41	22	11	35	23	21	29	28	30	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	43	14	15	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	32	X	X	X	36	X	X	
+2	47	46	48	6	9	12	18	31	33	34	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	24	
+ 	0	4	10	16	41	11	22	35	23	21	29	28	30	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	43	14	15	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	32	X	X	X	36	X	X	
+2	47	46	48	6	9	12	18	31	33	34	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	24	
+ 	0	4	10	16	41	11	35	22	23	21	29	28	30	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	43	14	15	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	32	X	X	X	36	X	X	
+2	47	46	48	6	9	12	18	31	33	34	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	24	
+ 	0	4	10	16	41	11	35	23	22	21	29	28	30	8	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	43	14	15	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	32	X	X	X	36	X	X	
+2	47	46	48	6	9	12	18	31	33	34	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	0	4	10	16	41	11	35	23	22	21	29	28	30	24	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	43	14	15	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	32	X	X	X	36	X	X	
+2	47	46	48	6	9	12	18	31	33	34	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	0	4	10	16	41	11	35	23	22	21	29	28	24	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	43	14	15	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	32	X	X	X	36	X	X	
+2	47	46	48	6	9	12	18	31	33	34	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	0	4	10	16	41	11	35	23	22	21	29	24	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	43	14	15	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	32	X	X	X	36	X	X	
+2	47	46	48	6	9	12	18	31	33	34	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	0	4	10	16	41	11	35	23	22	21	24	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+ 	 	1	7	13	19	43	14	15	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	32	X	X	X	36	X	X	
+2	47	46	48	6	9	12	18	31	33	34	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	0	4	10	16	41	11	35	23	22	21	24	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	43	14	15	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	32	X	X	X	36	X	X	
+2	47	46	48	6	9	12	18	31	33	34	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	0	4	10	16	41	11	35	23	21	22	24	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	43	14	15	45	38	44	37	40	X	
+5	X	X	X	20	X	X	X	32	X	X	X	36	X	X	
+2	47	46	48	6	9	12	18	31	33	34	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	0	4	10	16	41	11	35	23	21	24	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	43	14	15	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	32	X	X	X	36	X	X	
+2	47	46	48	20	9	12	18	31	33	34	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	0	4	10	16	41	11	35	23	21	24	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	43	14	15	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	32	X	X	X	36	X	X	
+2	47	46	48	9	20	12	18	31	33	34	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	0	4	10	16	41	11	35	23	21	24	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	19	43	14	15	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	32	X	X	X	36	X	X	
+2	47	46	48	9	12	20	18	31	33	34	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	0	4	10	16	41	11	35	23	21	24	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	19	14	15	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	32	X	X	X	36	X	X	
+2	47	46	48	9	12	20	18	31	33	34	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	0	4	10	16	41	11	35	23	21	24	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	14	19	15	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	32	X	X	X	36	X	X	
+2	47	46	48	9	12	20	18	31	33	34	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	0	4	10	16	41	11	35	23	21	24	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	14	15	19	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	32	X	X	X	36	X	X	
+2	47	46	48	9	12	20	18	31	33	34	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	0	4	10	16	41	11	35	23	21	24	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	14	15	19	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	32	X	X	X	36	X	X	
+2	47	46	48	9	12	20	31	18	33	34	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	0	4	10	16	41	11	35	23	21	24	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	14	15	32	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	19	X	X	X	36	X	X	
+2	47	46	48	9	12	20	31	18	33	34	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	0	4	10	16	41	11	35	23	21	24	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	14	15	32	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	19	X	X	X	36	X	X	
+2	47	46	48	9	12	20	31	18	33	34	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	0	4	10	16	41	11	35	21	23	24	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	14	15	32	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	19	X	X	X	36	X	X	
+2	47	46	48	9	12	20	31	18	33	34	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	0	4	10	16	41	11	35	23	21	24	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	14	15	32	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	19	X	X	X	36	X	X	
+2	47	46	48	9	12	20	31	33	18	34	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	0	4	10	16	41	11	35	23	21	24	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	14	15	32	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	19	X	X	X	36	X	X	
+2	47	46	48	9	12	20	31	33	18	34	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	0	4	10	16	41	11	35	23	24	21	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	14	15	32	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	19	X	X	X	36	X	X	
+2	47	46	48	9	12	20	31	33	34	18	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	42	X	X	X	8	
+ 	0	4	10	16	41	11	35	23	24	21	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	14	15	32	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	19	X	X	X	36	X	X	
+2	47	46	48	9	12	20	31	33	34	18	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	21	X	X	X	8	
+ 	0	4	10	16	41	11	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	14	15	32	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	33	X	X	X	36	X	X	
+2	47	46	48	9	12	20	31	19	34	18	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	21	X	X	X	8	
+ 	0	4	10	16	41	11	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	14	15	32	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	33	X	X	X	36	X	X	
+2	47	46	48	9	12	31	20	19	34	18	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	21	X	X	X	8	
+ 	0	4	10	16	41	11	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	14	15	32	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	33	X	X	X	36	X	X	
+2	47	46	48	9	12	31	20	19	34	21	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	18	X	X	X	8	
+ 	0	4	10	16	41	11	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	14	15	32	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	33	X	X	X	36	X	X	
+2	47	46	48	9	12	31	20	34	19	21	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	18	X	X	X	8	
+ 	0	4	10	16	41	11	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+ 	 	1	7	13	43	14	15	32	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	33	X	X	X	36	X	X	
+2	47	46	48	9	12	31	20	34	19	21	39	26	25	27	
+X	X	3	X	X	X	17	X	X	X	18	X	X	X	8	
+ 	0	4	10	16	41	11	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	14	15	32	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	33	X	X	X	36	X	X	
+2	47	46	48	9	12	17	20	34	19	21	39	26	25	27	
+X	X	3	X	X	X	31	X	X	X	18	X	X	X	8	
+ 	0	4	10	16	41	11	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	14	15	32	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	33	X	X	X	36	X	X	
+2	47	46	48	9	12	20	17	34	19	21	39	26	25	27	
+X	X	3	X	X	X	31	X	X	X	18	X	X	X	8	
+ 	0	4	10	16	41	11	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	14	15	32	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	33	X	X	X	36	X	X	
+2	47	46	48	9	12	20	34	17	19	21	39	26	25	27	
+X	X	3	X	X	X	31	X	X	X	18	X	X	X	8	
+ 	0	4	10	16	41	11	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	14	32	15	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	33	X	X	X	36	X	X	
+2	47	46	48	9	12	20	34	17	19	21	39	26	25	27	
+X	X	3	X	X	X	31	X	X	X	18	X	X	X	8	
+ 	0	4	10	16	41	11	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	14	32	15	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	17	X	X	X	36	X	X	
+2	47	46	48	9	12	20	34	33	19	21	39	26	25	27	
+X	X	3	X	X	X	31	X	X	X	18	X	X	X	8	
+ 	0	4	10	16	41	11	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	14	32	17	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	9	12	20	34	33	19	21	39	26	25	27	
+X	X	3	X	X	X	31	X	X	X	18	X	X	X	8	
+ 	0	4	10	16	41	11	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	14	32	17	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	33	X	X	X	36	X	X	
+2	47	46	48	9	12	20	34	15	19	21	39	26	25	27	
+X	X	3	X	X	X	31	X	X	X	18	X	X	X	8	
+ 	0	4	10	16	41	11	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	14	32	17	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	33	X	X	X	36	X	X	
+2	47	46	48	9	12	20	34	15	19	21	39	26	25	27	
+X	X	3	X	X	X	31	X	X	X	18	X	X	X	8	
+ 	0	4	10	41	16	11	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	14	32	17	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	33	X	X	X	36	X	X	
+2	47	46	48	9	12	20	34	15	19	21	39	26	25	27	
+X	X	3	X	X	X	31	X	X	X	18	X	X	X	8	
+ 	0	4	10	41	11	16	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	14	32	17	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	33	X	X	X	36	X	X	
+2	47	46	48	9	12	20	34	15	19	21	39	26	25	27	
+X	X	3	X	X	X	16	X	X	X	18	X	X	X	8	
+ 	0	4	10	41	11	31	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	14	32	17	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	33	X	X	X	36	X	X	
+2	47	46	48	9	12	16	34	15	19	21	39	26	25	27	
+X	X	3	X	X	X	20	X	X	X	18	X	X	X	8	
+ 	0	4	10	41	11	31	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	14	32	17	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	33	X	X	X	36	X	X	
+2	47	46	48	9	12	34	16	15	19	21	39	26	25	27	
+X	X	3	X	X	X	20	X	X	X	18	X	X	X	8	
+ 	0	4	10	41	11	31	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	14	32	17	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	33	X	X	X	36	X	X	
+2	47	46	48	9	12	34	16	15	19	18	39	26	25	27	
+X	X	3	X	X	X	20	X	X	X	21	X	X	X	8	
+ 	0	4	10	41	11	31	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	14	32	17	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	33	X	X	X	36	X	X	
+2	47	46	48	9	12	34	16	15	18	19	39	26	25	27	
+X	X	3	X	X	X	20	X	X	X	21	X	X	X	8	
+ 	0	4	10	41	11	31	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	14	32	33	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	17	X	X	X	36	X	X	
+2	47	46	48	9	12	34	16	15	18	19	39	26	25	27	
+X	X	3	X	X	X	20	X	X	X	21	X	X	X	8	
+ 	0	4	10	41	11	31	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	14	32	33	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	9	12	34	16	17	18	19	39	26	25	27	
+X	X	3	X	X	X	20	X	X	X	21	X	X	X	8	
+ 	0	4	10	41	11	31	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	14	32	33	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	9	12	34	17	16	18	19	39	26	25	27	
+X	X	3	X	X	X	20	X	X	X	21	X	X	X	8	
+ 	0	4	10	41	11	31	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	14	32	33	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	16	X	X	X	36	X	X	
+2	47	46	48	9	12	34	17	15	18	19	39	26	25	27	
+X	X	3	X	X	X	20	X	X	X	21	X	X	X	8	
+ 	0	4	10	41	11	31	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	14	43	32	33	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	16	X	X	X	36	X	X	
+2	47	46	48	9	12	34	17	15	18	19	39	26	25	27	
+X	X	3	X	X	X	20	X	X	X	21	X	X	X	8	
+ 	0	4	10	41	11	31	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	14	32	33	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	16	X	X	X	36	X	X	
+2	47	46	48	9	12	34	17	15	18	19	39	26	25	27	
+X	X	3	X	X	X	20	X	X	X	21	X	X	X	8	
+ 	0	4	10	41	11	31	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	14	32	33	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	16	X	X	X	36	X	X	
+2	47	46	48	9	34	12	17	15	18	19	39	26	25	27	
+X	X	3	X	X	X	20	X	X	X	21	X	X	X	8	
+ 	0	4	10	41	11	31	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	32	14	33	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	16	X	X	X	36	X	X	
+2	47	46	48	9	34	12	17	15	18	19	39	26	25	27	
+X	X	3	X	X	X	20	X	X	X	21	X	X	X	8	
+ 	0	4	10	41	11	31	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	32	14	33	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	16	X	X	X	36	X	X	
+2	47	46	48	9	34	17	12	15	18	19	39	26	25	27	
+X	X	3	X	X	X	20	X	X	X	21	X	X	X	8	
+ 	0	4	10	41	11	31	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	32	33	14	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	16	X	X	X	36	X	X	
+2	47	46	48	9	34	17	12	15	18	19	39	26	25	27	
+X	X	3	X	X	X	20	X	X	X	21	X	X	X	8	
+ 	0	4	10	41	11	31	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	32	33	14	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	16	X	X	X	36	X	X	
+2	47	46	48	9	34	17	15	12	18	19	39	26	25	27	
+X	X	3	X	X	X	20	X	X	X	21	X	X	X	8	
+ 	0	4	10	41	11	31	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	13	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	14	X	X	X	36	X	X	
+2	47	46	48	9	34	17	15	12	18	19	39	26	25	27	
+X	X	3	X	X	X	20	X	X	X	21	X	X	X	8	
+ 	0	4	10	41	11	31	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	6	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	13	X	X	X	14	X	X	X	36	X	X	
+2	47	46	48	9	34	17	15	12	18	19	39	26	25	27	
+X	X	3	X	X	X	20	X	X	X	21	X	X	X	8	
+ 	0	4	10	41	11	31	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	6	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	9	X	X	X	14	X	X	X	36	X	X	
+2	47	46	48	13	34	17	15	12	18	19	39	26	25	27	
+X	X	3	X	X	X	20	X	X	X	21	X	X	X	8	
+ 	0	4	10	41	11	31	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	6	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	9	X	X	X	14	X	X	X	36	X	X	
+2	47	46	48	34	13	17	15	12	18	19	39	26	25	27	
+X	X	3	X	X	X	20	X	X	X	21	X	X	X	8	
+ 	0	4	10	41	11	31	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	6	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	9	X	X	X	14	X	X	X	36	X	X	
+2	47	46	48	34	17	13	15	12	18	19	39	26	25	27	
+X	X	3	X	X	X	20	X	X	X	21	X	X	X	8	
+ 	0	4	10	41	11	31	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	6	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	9	X	X	X	14	X	X	X	36	X	X	
+2	47	46	48	34	17	15	13	12	18	19	39	26	25	27	
+X	X	3	X	X	X	20	X	X	X	21	X	X	X	8	
+ 	0	4	10	41	11	31	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	6	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	9	X	X	X	14	X	X	X	36	X	X	
+2	47	46	48	34	17	13	15	12	18	19	39	26	25	27	
+X	X	3	X	X	X	20	X	X	X	21	X	X	X	8	
+ 	0	4	10	41	11	31	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	6	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	9	X	X	X	12	X	X	X	36	X	X	
+2	47	46	48	34	17	13	15	14	18	19	39	26	25	27	
+X	X	3	X	X	X	20	X	X	X	21	X	X	X	8	
+ 	0	4	10	41	11	31	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	6	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	9	X	X	X	12	X	X	X	36	X	X	
+2	47	46	48	34	17	13	14	15	18	19	39	26	25	27	
+X	X	3	X	X	X	20	X	X	X	21	X	X	X	8	
+ 	0	4	10	41	11	31	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	6	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	9	X	X	X	12	X	X	X	36	X	X	
+2	47	46	48	34	17	14	13	15	18	19	39	26	25	27	
+X	X	3	X	X	X	20	X	X	X	21	X	X	X	8	
+ 	0	4	10	41	11	31	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+ 	 	1	7	6	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	9	X	X	X	12	X	X	X	36	X	X	
+2	47	46	48	34	17	14	13	15	18	19	39	26	25	27	
+X	X	3	X	X	X	20	X	X	X	21	X	X	X	8	
+ 	0	4	10	41	11	31	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	6	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	34	X	X	X	12	X	X	X	36	X	X	
+2	47	46	48	9	17	14	13	15	18	19	39	26	25	27	
+X	X	3	X	X	X	20	X	X	X	21	X	X	X	8	
+ 	0	4	10	41	11	31	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	6	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	34	X	X	X	12	X	X	X	36	X	X	
+2	47	46	48	9	17	14	13	15	18	19	39	26	25	27	
+X	X	3	X	X	X	20	X	X	X	21	X	X	X	8	
+ 	0	4	10	11	41	31	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	6	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	34	X	X	X	12	X	X	X	36	X	X	
+2	47	46	48	9	17	14	13	15	18	19	39	26	25	27	
+X	X	3	X	X	X	20	X	X	X	21	X	X	X	8	
+ 	0	4	10	41	11	31	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	6	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	34	X	X	X	12	X	X	X	36	X	X	
+2	47	46	48	17	9	14	13	15	18	19	39	26	25	27	
+X	X	3	X	X	X	20	X	X	X	21	X	X	X	8	
+ 	0	4	10	41	11	31	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	6	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	34	X	X	X	12	X	X	X	36	X	X	
+2	47	46	48	17	9	14	13	15	18	19	39	26	25	27	
+X	X	3	X	X	X	20	X	X	X	21	X	X	X	8	
+ 	0	4	10	41	31	11	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	6	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	34	X	X	X	12	X	X	X	36	X	X	
+2	47	46	48	17	14	9	13	15	18	19	39	26	25	27	
+X	X	3	X	X	X	20	X	X	X	21	X	X	X	8	
+ 	0	4	10	41	31	11	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	6	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	34	X	X	X	12	X	X	X	36	X	X	
+2	47	46	48	17	14	9	13	15	18	19	39	26	25	27	
+X	X	3	X	X	X	11	X	X	X	21	X	X	X	8	
+ 	0	4	10	41	31	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	6	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	34	X	X	X	12	X	X	X	36	X	X	
+2	47	46	48	17	14	11	13	15	18	19	39	26	25	27	
+X	X	3	X	X	X	9	X	X	X	21	X	X	X	8	
+ 	0	4	10	41	31	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	6	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	34	X	X	X	12	X	X	X	36	X	X	
+2	47	46	48	17	14	11	13	15	18	19	39	26	25	27	
+X	X	3	X	X	X	20	X	X	X	21	X	X	X	8	
+ 	0	4	10	41	31	9	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	6	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	34	X	X	X	12	X	X	X	36	X	X	
+2	47	46	48	17	14	11	13	15	18	19	39	26	25	27	
+X	X	3	X	X	X	20	X	X	X	21	X	X	X	8	
+ 	0	4	41	10	31	9	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	6	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	34	X	X	X	12	X	X	X	36	X	X	
+2	47	46	48	17	14	11	13	15	18	19	39	26	25	27	
+X	X	3	X	X	X	20	X	X	X	21	X	X	X	8	
+ 	0	4	41	31	10	9	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	6	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	34	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	17	14	11	13	12	18	19	39	26	25	27	
+X	X	3	X	X	X	20	X	X	X	21	X	X	X	8	
+ 	0	4	41	31	10	9	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	6	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	34	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	17	14	11	13	12	18	19	39	26	25	27	
+X	X	3	X	X	X	9	X	X	X	21	X	X	X	8	
+ 	0	4	41	31	10	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	6	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	34	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	17	14	9	13	12	18	19	39	26	25	27	
+X	X	3	X	X	X	11	X	X	X	21	X	X	X	8	
+ 	0	4	41	31	10	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	6	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	34	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	17	14	9	12	13	18	19	39	26	25	27	
+X	X	3	X	X	X	11	X	X	X	21	X	X	X	8	
+ 	0	4	41	31	10	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	6	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	34	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	17	14	9	12	13	18	19	39	26	25	27	
+X	X	3	X	X	X	20	X	X	X	21	X	X	X	8	
+ 	0	4	41	31	10	11	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	6	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	34	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	17	14	9	12	13	18	19	39	26	25	27	
+X	X	3	X	X	X	20	X	X	X	21	X	X	X	8	
+ 	0	4	41	31	11	10	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	6	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	34	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	17	14	9	12	13	18	19	39	26	25	27	
+X	X	3	X	X	X	10	X	X	X	21	X	X	X	8	
+ 	0	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	6	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	34	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	17	14	10	12	13	18	19	39	26	25	27	
+X	X	3	X	X	X	9	X	X	X	21	X	X	X	8	
+ 	0	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	6	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	34	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	17	14	9	12	13	18	19	39	26	25	27	
+X	X	3	X	X	X	10	X	X	X	21	X	X	X	8	
+ 	0	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	6	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	34	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	17	14	9	12	13	18	19	39	26	25	8	
+X	X	3	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	0	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	34	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	17	14	9	12	13	18	19	39	26	25	8	
+X	X	3	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	0	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	34	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	17	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	6	14	9	12	13	18	19	39	26	25	8	
+X	X	3	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	0	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	34	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	17	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	6	14	9	12	13	18	19	39	26	8	25	
+X	X	3	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	0	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	34	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	17	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	6	14	9	12	13	18	19	39	8	26	25	
+X	X	3	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	0	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	34	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	17	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	6	14	9	12	13	18	19	8	39	26	25	
+X	X	3	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	0	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	34	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	17	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	6	14	9	12	13	18	8	19	39	26	25	
+X	X	3	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	0	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	34	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	17	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	6	14	9	12	13	8	18	19	39	26	25	
+X	X	3	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	0	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	34	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	17	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	6	14	9	12	8	13	18	19	39	26	25	
+X	X	3	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	0	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	34	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	17	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	6	14	9	8	12	13	18	19	39	26	25	
+X	X	3	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	0	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	34	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	17	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	6	14	8	9	12	13	18	19	39	26	25	
+X	X	3	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	0	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	34	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	17	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	6	8	14	9	12	13	18	19	39	26	25	
+X	X	3	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	0	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	34	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	17	8	14	9	12	13	18	19	39	26	25	
+X	X	3	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	0	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	6	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	34	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	17	8	14	9	12	13	18	19	39	26	25	
+X	X	3	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	0	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	34	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	6	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	17	8	14	9	12	13	18	19	39	26	25	
+X	X	3	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	0	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	34	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	17	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	6	8	14	9	12	13	18	19	39	26	25	
+X	X	3	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	0	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	34	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	17	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	6	8	9	14	12	13	18	19	39	26	25	
+X	X	3	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	0	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	34	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	17	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	6	9	8	14	12	13	18	19	39	26	25	
+X	X	3	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	0	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	34	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	17	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	6	8	9	14	12	13	18	19	39	26	25	
+X	X	3	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	0	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	34	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	17	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	8	6	9	14	12	13	18	19	39	26	25	
+X	X	3	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	0	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	34	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	8	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	17	6	9	14	12	13	18	19	39	26	25	
+X	X	3	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	0	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	7	8	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	34	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	17	6	9	14	12	13	18	19	39	26	25	
+X	X	3	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	0	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	8	7	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	34	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	17	6	9	14	12	13	18	19	39	26	25	
+X	X	3	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	0	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	8	34	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	7	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	17	6	9	14	12	13	18	19	39	26	25	
+X	X	3	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	0	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	8	34	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	17	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	7	6	9	14	12	13	18	19	39	26	25	
+X	X	3	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	0	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	8	34	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	17	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	6	7	9	14	12	13	18	19	39	26	25	
+X	X	3	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	0	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	8	34	43	32	33	16	45	38	44	37	40	X	
+5	X	X	X	17	X	X	X	15	X	X	X	36	X	X	
+2	47	46	48	6	9	7	14	12	13	18	19	39	26	25	
+X	X	3	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	0	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	8	34	43	32	33	16	45	38	44	37	40	X	
+2	X	X	X	17	X	X	X	15	X	X	X	36	X	X	
+5	47	46	48	6	9	7	14	12	13	18	19	39	26	25	
+X	X	3	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	0	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	8	34	43	32	33	16	45	38	44	37	40	X	
+2	X	X	X	17	X	X	X	15	X	X	X	36	X	X	
+5	47	3	48	6	9	7	14	12	13	18	19	39	26	25	
+X	X	46	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	0	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	8	34	43	32	33	16	45	38	44	37	40	X	
+2	X	X	X	17	X	X	X	15	X	X	X	36	X	X	
+47	5	3	48	6	9	7	14	12	13	18	19	39	26	25	
+X	X	46	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	0	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	8	34	43	32	33	16	45	38	44	37	40	X	
+2	X	X	X	17	X	X	X	15	X	X	X	36	X	X	
+47	5	3	48	6	9	7	14	12	13	18	19	39	26	25	
+X	X	4	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	0	46	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	8	34	43	32	33	16	45	38	44	37	40	X	
+2	X	X	X	17	X	X	X	15	X	X	X	36	X	X	
+47	5	3	6	48	9	7	14	12	13	18	19	39	26	25	
+X	X	4	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	0	46	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	8	34	43	32	33	16	45	38	44	37	40	X	
+2	X	X	X	17	X	X	X	15	X	X	X	36	X	X	
+47	5	4	6	48	9	7	14	12	13	18	19	39	26	25	
+X	X	3	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	0	46	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+ 	 	1	8	34	43	32	33	16	45	38	44	37	40	X	
+2	X	X	X	17	X	X	X	15	X	X	X	36	X	X	
+47	5	4	6	48	9	7	14	12	13	18	19	39	26	25	
+X	X	3	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	0	46	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	8	34	43	32	33	16	45	38	44	37	40	X	
+2	X	X	X	17	X	X	X	15	X	X	X	36	X	X	
+47	5	3	6	48	9	7	14	12	13	18	19	39	26	25	
+X	X	4	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	0	46	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	8	34	43	32	33	16	45	38	44	37	40	X	
+47	X	X	X	17	X	X	X	15	X	X	X	36	X	X	
+2	5	3	6	48	9	7	14	12	13	18	19	39	26	25	
+X	X	4	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	0	46	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	8	34	43	32	33	16	45	38	44	37	40	X	
+47	X	X	X	17	X	X	X	15	X	X	X	36	X	X	
+5	2	3	6	48	9	7	14	12	13	18	19	39	26	25	
+X	X	4	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	0	46	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	8	34	43	32	33	16	45	38	44	37	40	X	
+47	X	X	X	17	X	X	X	15	X	X	X	36	X	X	
+5	3	2	6	48	9	7	14	12	13	18	19	39	26	25	
+X	X	4	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	0	46	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	8	34	43	32	33	16	45	38	44	37	40	X	
+47	X	X	X	17	X	X	X	15	X	X	X	36	X	X	
+5	3	2	6	48	9	7	14	12	13	18	19	39	26	25	
+X	X	4	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	46	0	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	8	34	43	32	33	16	45	38	44	37	40	X	
+47	X	X	X	17	X	X	X	15	X	X	X	36	X	X	
+5	3	4	6	48	9	7	14	12	13	18	19	39	26	25	
+X	X	2	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	46	0	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	8	34	43	32	33	16	45	38	44	37	40	X	
+47	X	X	X	17	X	X	X	15	X	X	X	36	X	X	
+5	3	4	6	48	9	7	14	12	13	18	19	39	26	25	
+X	X	0	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	46	2	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	1	8	34	43	32	33	16	45	38	44	37	40	X	
+47	X	X	X	17	X	X	X	15	X	X	X	36	X	X	
+5	3	0	6	48	9	7	14	12	13	18	19	39	26	25	
+X	X	4	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	46	2	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	8	1	34	43	32	33	16	45	38	44	37	40	X	
+47	X	X	X	17	X	X	X	15	X	X	X	36	X	X	
+5	3	0	6	48	9	7	14	12	13	18	19	39	26	25	
+X	X	4	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	46	2	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	8	1	34	43	32	33	16	45	38	44	37	40	X	
+47	X	X	X	17	X	X	X	15	X	X	X	36	X	X	
+5	3	6	0	48	9	7	14	12	13	18	19	39	26	25	
+X	X	4	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	46	2	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	8	34	1	43	32	33	16	45	38	44	37	40	X	
+47	X	X	X	17	X	X	X	15	X	X	X	36	X	X	
+5	3	6	0	48	9	7	14	12	13	18	19	39	26	25	
+X	X	4	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	46	2	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	8	34	1	43	32	33	16	45	38	44	37	40	X	
+47	X	X	X	17	X	X	X	15	X	X	X	36	X	X	
+5	3	6	48	0	9	7	14	12	13	18	19	39	26	25	
+X	X	4	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	46	2	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	8	34	17	43	32	33	16	45	38	44	37	40	X	
+47	X	X	X	1	X	X	X	15	X	X	X	36	X	X	
+5	3	6	48	0	9	7	14	12	13	18	19	39	26	25	
+X	X	4	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	46	2	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	8	34	17	43	32	33	16	45	38	44	37	40	X	
+47	X	X	X	1	X	X	X	15	X	X	X	36	X	X	
+5	6	3	48	0	9	7	14	12	13	18	19	39	26	25	
+X	X	4	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	46	2	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	8	34	17	43	32	33	16	45	38	44	37	40	X	
+47	X	X	X	1	X	X	X	15	X	X	X	36	X	X	
+5	6	48	3	0	9	7	14	12	13	18	19	39	26	25	
+X	X	4	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	46	2	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	8	34	17	43	32	33	16	45	38	44	37	40	X	
+47	X	X	X	1	X	X	X	15	X	X	X	36	X	X	
+5	6	48	3	0	9	7	14	12	13	18	19	39	26	25	
+X	X	2	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	46	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	8	34	17	43	32	33	16	45	38	44	37	40	X	
+47	X	X	X	1	X	X	X	15	X	X	X	36	X	X	
+5	6	2	3	0	9	7	14	12	13	18	19	39	26	25	
+X	X	48	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	46	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	8	34	17	43	32	33	16	45	38	44	37	40	X	
+47	X	X	X	0	X	X	X	15	X	X	X	36	X	X	
+5	6	2	3	1	9	7	14	12	13	18	19	39	26	25	
+X	X	48	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	46	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	8	34	17	43	32	33	16	45	38	44	37	40	X	
+47	X	X	X	0	X	X	X	15	X	X	X	36	X	X	
+5	6	3	2	1	9	7	14	12	13	18	19	39	26	25	
+X	X	48	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	46	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	8	34	17	43	32	33	16	45	38	44	37	40	X	
+47	X	X	X	0	X	X	X	15	X	X	X	36	X	X	
+5	6	3	1	2	9	7	14	12	13	18	19	39	26	25	
+X	X	48	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	46	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	8	34	17	43	32	33	16	45	38	44	37	40	X	
+47	X	X	X	2	X	X	X	15	X	X	X	36	X	X	
+5	6	3	1	0	9	7	14	12	13	18	19	39	26	25	
+X	X	48	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	46	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+
+swap
+ 	 	8	34	17	43	32	33	16	45	38	44	37	40	X	
+47	X	X	X	2	X	X	X	15	X	X	X	36	X	X	
+5	6	1	3	0	9	7	14	12	13	18	19	39	26	25	
+X	X	48	X	X	X	10	X	X	X	21	X	X	X	27	
+ 	46	4	41	31	11	20	35	23	24	42	22	29	28	30	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ 	X	X	X	 	X	X	X	 	X	X	X	 	X	X	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+X	X	 	X	X	X	 	X	X	X	 	X	X	X	 	
+X	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+

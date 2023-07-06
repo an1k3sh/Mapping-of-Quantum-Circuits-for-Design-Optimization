@@ -1,0 +1,44 @@
+3	0	2	
+X	1	X	
+X	 	X	
+
+swap
+3	1	2	
+X	0	X	
+X	 	X	
+
+3	1	2	
+X	0	X	
+X	 	X	
+
+3	1	2	
+X	0	X	
+X	 	X	
+
+swap
+3	0	2	
+X	1	X	
+X	 	X	
+
+3	0	2	
+X	1	X	
+X	 	X	
+
+swap
+3	1	2	
+X	0	X	
+X	 	X	
+
+3	1	2	
+X	0	X	
+X	 	X	
+
+3	1	2	
+X	0	X	
+X	 	X	
+
+swap
+3	0	2	
+X	1	X	
+X	 	X	
+

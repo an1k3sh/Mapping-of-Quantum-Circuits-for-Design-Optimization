@@ -1,0 +1,31 @@
+  1 
+2 0 
+
+swap
+  0 
+2 1 
+
+swap
+  1 
+2 0 
+
+swap
+  0 
+2 1 
+
+no swap
+  0 
+2 1 
+
+no swap
+  0 
+2 1 
+
+no swap
+  0 
+2 1 
+
+no swap
+  0 
+2 1 
+

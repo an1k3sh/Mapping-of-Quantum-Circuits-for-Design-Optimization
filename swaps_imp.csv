@@ -1,0 +1,21 @@
+Benchmark,Gate Count,Swap Count,Quantum Cost,Computer Name
+3_17_15,10,4,14,IBM Quito
+toffoli_1,5,2,7,IBM Quito
+graycode6_47,5,4,9,IBM Nairobi
+0410184_170,74,133,207,IBM Guadeloupe
+parity_247,32,74,106,IBM Cairo
+add32_185,192,948,1140,IBM Sherbrooke
+add64_186,384,1893,2277,Ideal Lattice
+decod24-v2_44,9,4,13,IBM Quito
+decod24-v1_42,9,4,13,IBM Quito
+miller_12,8,4,12,IBM Quito
+decod24-v0_40,9,5,14,IBM Quito
+decod24-v3_46,9,6,15,IBM Quito
+ex1_226,7,4,11,IBM Nairobi
+fredkin_5,7,3,10,IBM Quito
+peres_8,4,3,7,IBM Quito
+xor5_254,7,4,11,IBM Nairobi
+add16_175,96,265,361,IBM Sherbrooke
+c2_182,305,770,1075,IBM Sherbrooke
+graycode6_48,5,4,9,IBM Nairobi
+toffoli_double_3,7,6,13,IBM Quito
